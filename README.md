@@ -1,2 +1,2 @@
 # Project2_code
-Online HLB-detect system
+Online HLB-detect system based on RGB images
